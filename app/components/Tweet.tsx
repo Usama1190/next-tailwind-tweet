@@ -41,7 +41,7 @@ const Tweet = () => {
                     </Link>
 
                     <span className='text-gray-500 mr-1'>&middot;</span>
-                    <span className='text-gray-500'>Mar 18</span>
+                    <span className='text-gray-500'>Aug 22</span>
                 </div>
 
                 {/* This is the kebab menu */}
